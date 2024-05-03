@@ -1,4 +1,5 @@
-### Hi there 👋
+### Всем привет, я Аня! 👋
+Связаться со мной можете через телеграм @karamelinaa
 
 <!--
 **karamelinaa/karamelinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
